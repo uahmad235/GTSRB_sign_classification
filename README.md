@@ -1,5 +1,5 @@
 # GTSRB_sign_classification
-Pytorch-based classification of different models on [GTSRB sign dataset](https://pytorch.org/vision/main/generated/torchvision.datasets.GTSRB.html).
+The notebook presents comparison of multiple Pytorch-based classification models on [GTSRB sign dataset](https://pytorch.org/vision/main/generated/torchvision.datasets.GTSRB.html).
 
 ## Requirements:
 * The notebook requires only one dependnecy: `pytorch`
